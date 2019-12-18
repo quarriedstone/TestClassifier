@@ -1,3 +1,0 @@
-# TestClassifier
-
-Test different classifiers
